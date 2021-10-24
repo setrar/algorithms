@@ -1,4 +1,4 @@
-# [CRLS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) in Scala `2.13`:grey_exclamation:
+# [CRLS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) in Scala `3.0`:grey_exclamation:
 Study of the book `Introduction to Algorithms` [CLRS] 3rd edition
 
 ## Source Codes by Chapters
