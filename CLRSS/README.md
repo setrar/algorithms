@@ -5,7 +5,7 @@ Study of the book `Introduction to Algorithms` [CLRS] 3rd edition
 
 | Chp. |  Fig.   | Theme                                                     |  Comments                                   |
 |-----:|:--------|-----------------------------------------------------------|---------------------------------------------|
-|:four:| :one:   | [Maximum-SubArray](scala/src/main/scala/chapter4/MaximumSubarray.scala)| [:bulb:](https://en.wikipedia.org/wiki/Maximum_subarray_problem)             |
+|:four:| :one:   | [Maximum-SubArray](scala/src/main/scala/chapter4/MaximumSubArray.scala)| [:bulb:](https://en.wikipedia.org/wiki/Maximum_subarray_problem)             |
 
 
 ## Chapters
